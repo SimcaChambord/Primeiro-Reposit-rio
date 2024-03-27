@@ -1,0 +1,51 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "mapa Luiz.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "apocalypse.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "apocalypse2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mapa Luiz.tmx": {
+            "scale": 1.6862499999999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.47442550037067,
+                "y": 240.4744255003707
+            }
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/ecole/Desktop/Projeto Tiled",
+    "last.imagePath": "C:/Users/ecole/Desktop/Projeto Tiled",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "apocalypse2.tsx",
+        "mapa Luiz.tmx"
+    ],
+    "project": "Projeto Luiz.tiled-project",
+    "recentFiles": [
+        "apocalypse2.tsx",
+        "mapa Luiz.tmx",
+        "apocalypse.tsx"
+    ],
+    "tileset.lastUsedFilter": "Ficheiros de conjunto de blocos Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#000000",
+    "tileset.useTransparentColor": true
+}
